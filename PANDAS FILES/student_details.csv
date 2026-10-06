@@ -1,0 +1,11 @@
+id,name,dob,place,score,stream,unknown
+1,smith,01-jan-2002,beng-560068,45.0,BE-CS,
+2,allen,01-jun-2002,bengaluru-560068,66.0,BE-IS,
+3,miller,31-jan-2002,beng-560011,88.0,BE-CS,
+4,martin,15-aug-2002,chennai-600068,34.0,BE-IS,
+5,smith,01-jan-2003,chen-600068,90.0,BE-EEE,
+6,scott,01-feb-2003,del-123445,99.0,BCA,
+7,adams,15-aug-2002,delhi-123445,0.0,MCA,
+2,allen,01-jun-2002,bengaluru-560068,66.0,BE-IS,
+2,allen,01-jun-2002,bengaluru-560068,66.0,BE-IS,
+8,king,01-jun-2000,bengaluru-560077,,,

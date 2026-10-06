@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib 
+seaborn
+selenium
+
+to install all libraries at once -> pip install -r prereqisites
